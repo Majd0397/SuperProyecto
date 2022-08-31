@@ -7,3 +7,6 @@ def cubo(x):
 def cuarta(x):
 	return x*x*x*x
 
+def sexta(x):
+	return x*x*x*x*x*x
+
